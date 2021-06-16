@@ -20,6 +20,6 @@ Kilka rzeczy o mnie:
 - E-mail: xradzioo98@gmail.com
 
 
-### - ⚡ Ciekawe rzeczy: ...
+### - ⚡ Ciekawe rzeczy:
 
 --> [Więcej rzeczy o mnie!](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)

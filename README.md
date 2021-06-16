@@ -15,4 +15,4 @@ Kilka rzeczy o mnie:
 -->
 
 
-[Link](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)
+[Interesujące rzeczy o mnie](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)

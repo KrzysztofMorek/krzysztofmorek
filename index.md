@@ -1,28 +1,25 @@
-# Ciekawe rzeczy.
+### Witam! 👋
 
-### Tutaj znajdują się ciekawe rzeczy
+Kilka rzeczy o mnie:
 
-![Image](https://ocdn.eu/pulscms-transforms/1/El9k9kpTURBXy9mOTk1NzZhNTY3YjhlYjljZWQ3MDcxMGJjNWEzZTZhNy5qcGeTlQMAFs0C1M0Bl5MFzQMUzQG8kwmmMDZjMDIzBoGhMAU/gettyimages-954867550.webp)
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+- 🔭 Interesuję się astronomią od 7 roku życia
+- 🌱 Aktualnie uczę się gry na gitarze
+- 👯 Studiuję Informatykę i Ekonometrię na Uniwersytecie Szczecińskim 
+- 🤔 Pracuję jako menager w firmie zajmującą się rozwozem paczek
+## - 💬 Moje linki społecznościowe
+- [Instagram:](https://www.instagram.com/)
+
+- [Facebook:](https://www.facebook.com/)
+
+- [Nasza klasa:](https://nk.pl/logowanie)
+
+## - 📫 Kontant:
+- Telefon: 579 402 022  
+- E-mail: xradzioo98@gmail.com
 
 
-```markdown
+### - ⚡ Ciekawe rzeczy:
 
-- Mam **22* lata
-- Mieszkam w _Szczecinie_
-- Mam **niebieski** kolor oczu
-- Mój wzrost wynosi **181** cm
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](C:\Users\Krzychu\Desktop\Github/zdj1)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KrzysztofMorek/Zaliczenie/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+--> [Więcej rzeczy o mnie!](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)

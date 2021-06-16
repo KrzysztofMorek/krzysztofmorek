@@ -13,3 +13,6 @@ Kilka rzeczy o mnie:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[Link](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md)

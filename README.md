@@ -22,4 +22,4 @@ Kilka rzeczy o mnie:
 
 ### - ⚡ Ciekawe rzeczy: ...
 
---> [Interesujące rzeczy o mnie](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)
+--> [Więcej rzeczy o mnie!](https://github.com/KrzysztofMorek/Zaliczenie/blob/gh-pages/index.md/)
